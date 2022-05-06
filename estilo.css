@@ -23,6 +23,10 @@ h1{
 
 footer{
     background-image: url("img/footer.jpg");
-    color: white;
+    color: #ffffff;
+}
+
+#conteudo{
+    background-color:  #F6F0E0;
 }
 
