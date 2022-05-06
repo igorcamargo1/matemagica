@@ -18,16 +18,8 @@ h1{
     background-color: #0b340b;
     color: white;
 }
-#esquerdo{
-    width: 50%;
-    color: blanchedalmond;
-}
 
 
-#conteudo{
-    float: right;
-    color: black;
-}
 
 footer{
     background-image: url("img/footer.jpg");
