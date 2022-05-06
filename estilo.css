@@ -1,0 +1,36 @@
+h1{
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+}
+
+#tabuada{
+    color: black;
+}
+
+#unidades{
+    background-color:#0b340b ;
+    color: white;
+}
+
+#dezenas{
+    background-color: #0b340b;
+    color: white;
+}
+#esquerdo{
+    width: 50%;
+    color: blanchedalmond;
+}
+
+
+#conteudo{
+    float: right;
+    color: black;
+}
+
+footer{
+    background-image: url("img/footer.jpg");
+    color: white;
+}
+

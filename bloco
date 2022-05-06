@@ -1,0 +1,41 @@
+<section id="corpo">
+        <div id="esquerda">
+            <h3>Tabuada</h3>
+            <p>Unidades</p>
+            <p>Dezenas</p>
+            <div id="sectionimg">
+                <img src="./img/lateral-1.png" alt="missãomatemágica">
+                <img src="./img/lateral-2.png" alt="menimamágica">
+            </div>
+        </div>
+        <div id="direita">
+            <h3>Nosso conteúdo.</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet debitis libero omnis doloremque
+                praesentium. Voluptatem ipsa aperiam natus vitae eius velit rerum alias quibusdam nesciunt temporibus,
+                in exercitationem eos ab.</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi facere nulla numquam autem, itaque fugit
+                doloremque veniam quam dolores recusandae ratione nesciunt dolorem. Dolorum a inventore tempora dolores
+                vel aliquid!</p>
+            <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo aliquam aut, tenetur natus molestias fugit,
+                nostrum odio ullam quasi explicabo facilis facere autem dolorem, possimus a veniam doloremque
+                repudiandae fuga.</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, eius expedita fugit temporibus
+                laborum perspiciatis, debitis facere inventore, vel laboriosam quaerat tempore reiciendis eveniet!
+                Distinctio, harum! Ab explicabo error quisquam.</p>
+        </div>
+    </section>
+    <div>
+        <h2> MAIS ALGUMAS COISAS AQUI:</h2>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut ipsum dolor explicabo deserunt tempore dolorum
+            expedita laborum enim quo quisquam sint, accusamus architecto perferendis iste tenetur quae doloribus quod
+            alias!</p>
+    </div>
+
+    <section>
+        <footer>
+            <img src="./img/github.png" alt="github">
+            <img src="./img/facebook.png" alt="facebook">
+            <img src="./img/twitter.png" alt="twitter">
+        </footer>
+    </section>
+    <p>Company @2021 <a href="#contanto">Contanto</a></p>
